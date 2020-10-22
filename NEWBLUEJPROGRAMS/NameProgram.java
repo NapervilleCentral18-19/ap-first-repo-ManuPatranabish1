@@ -50,3 +50,11 @@ public class NameProgram
     
 
 }
+//What is your full name (first,middle,last)?
+//Manu Kumar Patranabish
+//Manu Kumar.
+//Patranabish
+//What is your full name (first,middle,last)?
+//Kanye Omari West
+//Kanye Omari.
+//West
