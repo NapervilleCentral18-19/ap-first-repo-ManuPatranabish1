@@ -38,3 +38,6 @@ public class phonenumberprogram
     
 
 }
+//Output
+//777-545-9023
+//123-456-7890
