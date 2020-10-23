@@ -16,8 +16,9 @@ public class NameProgram
       int secondspace=name.indexOf(" ", firstspace+1);//finds the space after the first space hence firstspace+1
       String firstname=name.substring(0,firstspace);//first name is between the start of the string and first space
       String middlename=name.substring(firstspace,secondspace);//middle name is between the first and second space
+      String middleinitial=middlename.substring(1,2);//gets the first letter of the middle name 
       String lastname=name.substring(secondspace+1);//everything after the second space is the last name
-      System.out.println(firstname+" "+middlename+".");
+      System.out.println(firstname+" "+middleinitial+".");
       System.out.println(lastname);
       
       
@@ -52,9 +53,9 @@ public class NameProgram
 }
 //What is your full name (first,middle,last)?
 //Manu Kumar Patranabish
-//Manu Kumar.
+//Manu K.
 //Patranabish
 //What is your full name (first,middle,last)?
 //Kanye Omari West
-//Kanye Omari.
+//Kanye O.
 //West
