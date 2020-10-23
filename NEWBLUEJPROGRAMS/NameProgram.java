@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Asks the user to enter their full name then asks the programmer to hack into First Middle. then Last Name on the second line. 
+ * Asks the user to enter their full name then asks the programmer to hack it into First Middle Initial. then Last Name on the second line. 
  *
  * Manu
  * 9/26
